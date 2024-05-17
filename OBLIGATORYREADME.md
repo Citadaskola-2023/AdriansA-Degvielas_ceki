@@ -1,7 +1,7 @@
 Ielogoties git 
 -----------------
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/<name>
+`eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/<name>`
 
 
 Klonēt github repozitoriju ar
